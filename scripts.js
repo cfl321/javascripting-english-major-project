@@ -1,1 +1,1 @@
-alert("scripts.js has loaded!");
+$("p").last().addClass("selected");
