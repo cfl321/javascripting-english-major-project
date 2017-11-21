@@ -12,7 +12,7 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
   featuresList = data.features.map(function(feature){
     return {
       latitude: feature.geometry.coordinates[1],
-      longitde: feature.geometry.coordinates[0],
+      longitude: feature.geometry.coordinates[0],
       description: feature.properties.D,
       fillColor: feature.properties.E
     };
