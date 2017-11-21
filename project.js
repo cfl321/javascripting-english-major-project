@@ -18,7 +18,8 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
     };
   });
   console.log(featuresList);
-  featuresList.forEach(function(project){
+  let featuresLayer;
+  featuresLayer = featuresList.forEach(function(project){
     L.circleMarker(
       [project.latitude, project.longitude],
       {
@@ -27,6 +28,7 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
       }
     );
   });
+  featuresLayer.addTo(map);
 });
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
