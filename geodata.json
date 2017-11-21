@@ -10,7 +10,7 @@
     "properties": {
     "A":"Julius' Apartment",
     "D":"Julius lives on Pitt street on the Lower East Side of Manhattan. It is a small, dirty apartment that is practically falling apart. Both Bootie and David spend some time there, but no one feels comfortable, not even Jullius. He lives there because it is cheap and he doesn't have a steady job to afford a nicer place. ",
-    "E":"#"
+    "E":"#d33682"
     }
   },
   {
@@ -22,7 +22,7 @@
     "properties": {
     "A":"Thwaite Family Apartment ",
     "D":"The Twaite's apartment is located on the Upper West Side, probably around 85th and Central Park West, just above the Natural History Museum. Marina lives here with her parent's Murry and Annabel. It is a large, spacious apartment, which shows they are very wealthy. Murry works as a writer and journalist, while Annabel is a lawyer. Marina is unemployed for most of the novel and lives off her parents. ",
-    "E":"#"
+    "E":"#859900"
     }
   },
   {
@@ -34,7 +34,7 @@
     "properties": {
     "A":"Danielle's Apartment ",
     "D":"Danielle lives in Greenwich village on the corner of 12th and 6th. She lives alone and very rarely has people over. There are large windows with views of the World Trade center. ",
-    "E":"#"
+    "E":"#cb4b16"
     }
   },
   {
@@ -46,7 +46,7 @@
     "properties": {
     "A":"Danielle's Office",
     "D":"Danielle works on the corner of Lafayette and Bleeker, a short walk from her apartment. She works as a producer, hoping to produce her own show. ",
-    "E":"#"
+    "E":"#fdf6e3"
     }
   },
   {
@@ -58,7 +58,7 @@
     "properties": {
     "A":"David's Apartment ",
     "D":"David has a spacious apartment in Chelsea, which he can afford with his job located in the financial district. He lives alone until Julius moves in with him for a short period of time. When David looses his job, they are forced to leave as he can no longer afford rent. ",
-    "E":"#"
+    "E":"#268bd2"
     }
   },
   {
@@ -68,9 +68,9 @@
        "coordinates":  [ -73.985989,40.737569 ]
     },
     "properties": {
-    "A":"Ludow's Apartment ",
-    "D":"After moving to New York from Sydney, Australia, Ludow gets an apartment near Gramery Park. He lives alone until he is married and Marina moves in with him. ",
-    "E":"#"
+    "A":"Ludo's Apartment ",
+    "D":"After moving to New York from Sydney, Australia, Ludow gets an apartment near Gramercy Park. He lives alone until he is married and Marina moves in with him. ",
+    "E":"#657b83"
     }
   },
   {
@@ -82,7 +82,7 @@
     "properties": {
     "A":"Thwaite Family Country House ",
     "D":"The Thwaite family has a country home located in Stockbridge, Massachusettes. Before moving back home, Marina spent most of her time here writing her book. This is also the location of Marina and Ludow's 4th of July engagemnt party and Labor Day weekend wedding. ",
-    "E":"#"
+    "E":"#b58900"
     }
   },
   {
@@ -94,7 +94,7 @@
     "properties": {
     "A":"World Trade Center",
     "D":"",
-    "E":"#"
+    "E":"#00FF00"
     }
   }
 ]
