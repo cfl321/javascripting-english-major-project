@@ -38,5 +38,28 @@ $.ajax({
     let html;
     html = md.render(markdown);
     $("#content").html(html);
+    <nav id="nav-tabs" class="nav nav-pills mt-3">
+  <a class="nav-link active" href="#introduction">Introduction</a>
+  <a class="nav-link" href="#marina">Marina Thwaite</a>
+  <a class="nav-link" href="#murry">Murry Thwaite</a>
+  <a class="nav-link" href="#danielle">Danielle Minkoff</a>
+  <a class="nav-link" href="#julius">Julius Clarke</a>
+  <a class="nav-link" href="#bootie">Frederick Tubb</a>
+  <a class="nav-link" href="#david">David </a>
+  <a class="nav-link" href="#ludo">Ludovic Seeley</a>
+  <a class="nav-link" href="#conclusion">Conclusion</a>
+</nav>
   }
+  md = window.markdownit({html: true}).use(window.markdownitFootnote);
+["introduction", "marina",
+  "murry", "danielle",
+  "julius", "bootie", "david", "ludo", "conclusion"].forEach(function(tab){
+  $.ajax({
+    url: tab + ".md",
+    success: function(markdown){
+      let html;
+      html = md.render(markdown);
+      $("#" + tab).html(html);
+    }
+  });
 });
