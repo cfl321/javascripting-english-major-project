@@ -38,7 +38,7 @@ $.ajax({
     let html;
     html = md.render(markdown);
     $("#content").html(html);
-<nav id="nav-tabs" class="nav nav-pills mt-3" role="tablist">
+<nav id="nav-tab" class="nav nav-pills mt-3" role="tablist">
   <a class="nav-link acive" href="#introduction" data-toggle="tab" role="tab">Introduction</a>
   <a class="nav-link" href="#marina" data-toggle="tab" role="tab">Marina Thwaite</a>
   <a class="nav-link" href="#murry" data-toggle="tab" role="tab">Murry Thwaite</a>
