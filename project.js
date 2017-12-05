@@ -38,17 +38,6 @@ $.ajax({
     let html;
     html = md.render(markdown);
     $("#content").html(html);
-<nav id="nav-tab" class="nav nav-pills mt-3" role="tablist">
-  <a class="nav-link acive" href="#introduction" data-toggle="tab" role="tab">Introduction</a>
-  <a class="nav-link" href="#marina" data-toggle="tab" role="tab">Marina Thwaite</a>
-  <a class="nav-link" href="#murry" data-toggle="tab" role="tab">Murry Thwaite</a>
-  <a class="nav-link" href="#danielle" data-toggle="tab" role="tab">Danielle Minkoff</a>
-  <a class="nav-link" href="#julius" data-toggle="tab" role="tab">Julius Clarke</a>
-  <a class="nav-link" href="#bootie" data-toggle="tab" role="tab">Frederick Tubb</a>
-  <a class="nav-link" href="#david" data-toggle="tab" role="tab">David </a>
-  <a class="nav-link" href="#ludo" data-toggle="tab" role="tab">Ludovic Seeley</a>
-  <a class="nav-link" href="#conclusion" data-toggle="tab" role="tab">Conclusion</a>
-</nav>
 <div class="tab-content p-3">
   <section class="tab-pane active" id="introduction" role="tabpanel"> </section>
   <section class="tab-pane" id="marina" role="tabpanel"> </section>
