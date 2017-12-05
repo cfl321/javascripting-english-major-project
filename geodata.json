@@ -5,12 +5,24 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "A":"Name ",
+    "D":"Fill color",
+    "E":"Picture Url"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -73.982449,40.718285 ]
     },
     "properties": {
     "A":"Julius' Apartment",
-    "D":"Julius lives on Pitt street on the Lower East Side of Manhattan. It is a small, dirty apartment that is practically falling apart. Both Bootie and David spend some time there, but no one feels comfortable, not even Jullius. He lives there because it is cheap and he doesn't have a steady job to afford a nicer place. ",
-    "E":"#d33682"
+    "D":"#d33682",
+    "E":"https://imgur.com/NDPez7J"
     }
   },
   {
@@ -21,8 +33,8 @@
     },
     "properties": {
     "A":"Thwaite Family Apartment ",
-    "D":"The Twaite's apartment is located on the Upper West Side, probably around 85th and Central Park West, just above the Natural History Museum. Marina lives here with her parent's Murry and Annabel. It is a large, spacious apartment, which shows they are very wealthy. Murry works as a writer and journalist, while Annabel is a lawyer. Marina is unemployed for most of the novel and lives off her parents. ",
-    "E":"#859900"
+    "D":"#859900",
+    "E":"https://imgur.com/AyR0EQp"
     }
   },
   {
@@ -33,8 +45,8 @@
     },
     "properties": {
     "A":"Danielle's Apartment ",
-    "D":"Danielle lives in Greenwich village on the corner of 12th and 6th. She lives alone and very rarely has people over. There are large windows with views of the World Trade center. ",
-    "E":"#cb4b16"
+    "D":"#cb4b16",
+    "E":"https://imgur.com/rx1EWuC"
     }
   },
   {
@@ -45,8 +57,8 @@
     },
     "properties": {
     "A":"Danielle's Office",
-    "D":"Danielle works on the corner of Lafayette and Bleeker, a short walk from her apartment. She works as a producer, hoping to produce her own show. ",
-    "E":"#fdf6e3"
+    "D":"#fdf6e3",
+    "E":"https://imgur.com/QhGQjmP"
     }
   },
   {
@@ -57,8 +69,8 @@
     },
     "properties": {
     "A":"David's Apartment ",
-    "D":"David has a spacious apartment in Chelsea, which he can afford with his job located in the financial district. He lives alone until Julius moves in with him for a short period of time. When David looses his job, they are forced to leave as he can no longer afford rent. ",
-    "E":"#268bd2"
+    "D":"#268bd2",
+    "E":"https://imgur.com/l65rVko"
     }
   },
   {
@@ -68,9 +80,9 @@
        "coordinates":  [ -73.985989,40.737569 ]
     },
     "properties": {
-    "A":"Ludo's Apartment ",
-    "D":"After moving to New York from Sydney, Australia, Ludow gets an apartment near Gramercy Park. He lives alone until he is married and Marina moves in with him. ",
-    "E":"#657b83"
+    "A":"Ludow's Apartment ",
+    "D":"#657b83",
+    "E":"https://imgur.com/5aM8fPQ"
     }
   },
   {
@@ -81,8 +93,8 @@
     },
     "properties": {
     "A":"Thwaite Family Country House ",
-    "D":"The Thwaite family has a country home located in Stockbridge, Massachusettes. Before moving back home, Marina spent most of her time here writing her book. This is also the location of Marina and Ludow's 4th of July engagemnt party and Labor Day weekend wedding. ",
-    "E":"#b58900"
+    "D":"#b58900",
+    "E":"https://imgur.com/FG3gyaB"
     }
   },
   {
@@ -93,8 +105,32 @@
     },
     "properties": {
     "A":"World Trade Center",
-    "D":"",
-    "E":"#00FF00"
+    "D":"#00FF00",
+    "E":"https://imgur.com/VaW7uE5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.974274,40.695231 ]
+    },
+    "properties": {
+    "A":"Bootie's Apartment",
+    "D":"#135453",
+    "E":"https://imgur.com/daKONfm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.202596,25.770024 ]
+    },
+    "properties": {
+    "A":"Miami ",
+    "D":"#33FFFC",
+    "E":"https://imgur.com/hCwsXUQ"
     }
   }
 ]

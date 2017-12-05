@@ -8,7 +8,7 @@ tileLayer = L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
 map.setView([40.730833, -73.9975], 16);
 let projectFeatures;
 $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.json", function(data){
-  let featuresList;
+  let featuresList, projectLayer;
   featuresList = data.features.map(function(feature){
     return {
       latitude: feature.geometry.coordinates[1],
