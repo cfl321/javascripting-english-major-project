@@ -5,18 +5,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "A":"Name ",
-    "D":"Fill color",
-    "E":"Picture Url"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -73.982449,40.718285 ]
     },
     "properties": {
