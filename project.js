@@ -23,7 +23,6 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
     return L.circleMarker(
       [project.latitude, project.longitude] ,
       {
-        //radius: project.radius,
         fillColor: project.fillColor
       }
     );
