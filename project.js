@@ -13,22 +13,25 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
     return {
       latitude: feature.geometry.coordinates[1],
       longitude: feature.geometry.coordinates[0],
-      description: feature.properties.D,
-      fillColor: feature.properties.E
+      description: feature.properties.E,
+      fillColor: feature.properties.D
     };
   });
   console.log(featuresList);
   let featuresLayer;
-  featuresLayer = featuresList.forEach(function(project){
-    L.circleMarker(
-      [project.latitude, project.longitude],
+  featuresLayer = L.featureGroup(featuresList.map(function(project){
+    return L.circleMarker(
+      [project.latitude, project.longitude] ,
       {
         //radius: project.radius,
         fillColor: project.fillColor
       }
     );
-  });
+  }));
   featuresLayer.addTo(map);
+  //console.log(featuresLayer.getBounds());
+  map.fitBounds(featuresLayer.getBounds());
+  //console.log(featuresLayer);
 });
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
@@ -36,7 +39,7 @@ md = window.markdownit({html: true}).use(window.markdownitFootnote);
   "murry", "danielle",
   "julius", "bootie", "david", "ludo", "conclusion"].forEach(function(tab){
 $.ajax({
-  url: tab + ".md",
+  url: "https://cfl321.github.io/javascripting-english-major-project/" + tab + ".md",
   success:function(markdown){
     let html;
     html = md.render(markdown);
