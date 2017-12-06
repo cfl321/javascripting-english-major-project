@@ -31,6 +31,13 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
   //console.log(featuresLayer.getBounds());
   map.fitBounds(featuresLayer.getBounds());
   //console.log(featuresLayer);
+  projectLayer = L.featureGroup(projectFeatures.map(function(feature){
+  let popupContent;
+  popupContent = "<h4>" + feature.name + "</h4>";
+  popupContent = popupContent + "Read about " + feature.name + " on <a href='"+ feature.picture + "'>Wikipedia</a>.";
+  return L.marker(feature.latLng).bindPopup(popupContent);
+  })
+);
 });
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
