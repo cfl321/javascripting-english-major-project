@@ -17,13 +17,12 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
       fillColor: feature.properties.D,
       name: feature.properties.A
     };
-  });
   console.log(featuresList);
   let featuresLayer;
   featuresLayer = L.featureGroup(featuresList.map(function(project){
     let popupContent;
       popupContent = "<h4>" + feature.name + "</h4>";
-      popupContent = popupContent + "This is a picture of" + feature.name + " on <a href='"+ feature.picture + "'>Wikipedia</a>.";
+      popupContent = popupContent + "This is a picture of" + feature.name + " on <a href='"+ feature.picture + "'>Imgur</a>.";
       return L.circleMarker(
       [project.latitude, project.longitude] ,
       {
@@ -38,18 +37,19 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
   projectLayer = L.featureGroup(featuresList.map(function(feature){
   })
 );
-});
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
 ["introduction", "marina",
   "murry", "danielle",
   "julius", "bootie", "david", "ludo", "conclusion"].forEach(function(tab){
 $.ajax({
-  url: "https://cfl321.github.io/javascripting-english-major-project/" + tab + ".md",
+  url: "https://cfl321.github.io/javascripting-english-major-project/introduction.md",
   success:function(markdown){
     let html;
     html = md.render(markdown);
     $("#content").html(html);
   }
   });
+});
+});
 });
