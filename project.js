@@ -14,9 +14,9 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
       latitude: feature.geometry.coordinates[1],
       longitude: feature.geometry.coordinates[0],
       picture: feature.properties.E,
-      fillColor: feature.properties.D
+      fillColor: feature.properties.D,
       title: feature.properties.A
-    });
+    };
   });
   console.log(featuresList);
   let featuresLayer;
