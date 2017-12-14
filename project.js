@@ -40,8 +40,8 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
 ["introduction", "marina",
-  "murry", "danielle",
-  "julius", "bootie", "david", "ludo", "conclusion"].forEach(function(tab){
+   "danielle",
+  "julius", "murry", "bootie", "ludo", "manhattan", "conclusion"].forEach(function(tab){
 $.ajax({
   url: "https://cfl321.github.io/javascripting-english-major-project/introduction.md",
   success:function(markdown){
