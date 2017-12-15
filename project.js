@@ -17,39 +17,34 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
       fillColor: feature.properties.D,
       name: feature.properties.A
     };
-  console.log(featuresList);
+  });
+  //console.log(featuresList);
   let featuresLayer;
   featuresLayer = L.featureGroup(featuresList.map(function(project){
     let popupContent;
-      popupContent = "<h4>" + feature.name + "</h4>";
-      popupContent = popupContent + "This is a picture of" + feature.name + " on <a href='"+ feature.picture + "'>Imgur</a>.";
+      popupContent = "<h4>" + project.name + "</h4>";
+      popupContent = popupContent + "This is a picture of" + project.name + " on <a href='"+ project.picture + "'></a>.";
       return L.circleMarker(
-      [project.latitude, project.longitude] ,
-      {
-        fillColor: project.fillColor
-      }
+        [project.latitude, project.longitude] ,
+        {
+          fillColor: project.fillColor
+        }
     ).bindPopup(popupContent);
   }));
   featuresLayer.addTo(map);
-  //console.log(featuresLayer.getBounds());
   map.fitBounds(featuresLayer.getBounds());
-  //console.log(featuresLayer);
-  projectLayer = L.featureGroup(featuresList.map(function(feature){
-  })
-);
+});
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
 ["introduction", "marina",
    "danielle",
   "julius", "murry", "bootie", "ludo", "manhattan", "conclusion"].forEach(function(tab){
 $.ajax({
-  url: "https://cfl321.github.io/javascripting-english-major-project/introduction.md",
+  url: "https://cfl321.github.io/javascripting-english-major-project/" + tab + ".md",
   success:function(markdown){
     let html;
     html = md.render(markdown);
-    $("#content").html(html);
+    $("#" + tab).html(html);
   }
   });
-});
-});
 });
