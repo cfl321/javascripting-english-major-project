@@ -1,1 +1,11 @@
-danielle 
+Why is Danielle Minkoff a child of the emperor?
+
+Danielle grew up in Columbus, Ohio until attending college at Brown University. From there she moved to New York, which she now considers home, and began working as a producer for television documentaries. Now 30 years old, Danielle currently lives alone in a Greenwich Village studio, and is starting a new documentary on liposuction. As an outsider looking in, it may seem like Danielle has it all together, but does she?
+
+After returning to New York, Danielle realizes she has developed feelings for Ludovic Seeley and decides to get in touch with him. Unfortunately for Danielle, it doesn’t work out and Ludo becomes engaged, and soon after marries, her best friend Marina Thwaite. Danielle quickly gets over this as she begins flirting with Marina’s father Murry through e-mail. They start off as innocent messages concerning the well-being of Marina, but soon escalate. The two start meeting in person and it becomes obvious to Marina and Julius that something has changed with Danielle.
+
+The point where Danielle shows the most immaturity is during the weekend she spends with Murry. After convincing Murry that the two of them need to spend more time together, Murry cancels his business trip to Chicago and goes to Marina’s apartment instead. It is from Danielle’s apartment that they witness the attacks of September 11. It is at that moment of pure fear, that Murry realizes he can no longer fool around with Danielle. Overwhelmed with emotion, Murry decides to leave Danielle, go home to his wife, and explain the details later.
+
+Danielle is distraught over Murry’s decision and feels it is better for Murry to lie to his wife than risk being exposed. For the weeks that follow, Danielle has an extremely difficult time getting over Murry. She spends days at a time in bed and wonders what everything meant. She wonders if he ever really loved her.
+
+All break-ups are hard, but Danielle should’ve seen this one coming. It was obvious that Murry would never leave his wife, and even Danielle refused to tell anyone about her secret affair. For someone who is all grown up, it is clear that she can still act like a child. After all, doesn’t Danielle have other things to worry about?
