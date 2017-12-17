@@ -1,1 +1,9 @@
-ludow
+Why is Ludovic “Ludo” Seeley the emperor of the novel?
+
+Ludo comes to New York in order to make a name for himself. He is already well-known in his hometown of Sydney, Australia, but he wishes to expand his fame to the United States, particularly, New York. Upon arriving in Manhattan he moves into an apartment near Gramercy Park and plans on launching a new literary magazine The Monitor. Everything Ludo does revolves around getting is name out there.
+
+Based on what we see of Ludo’s behavior and how he presents himself and his career, it may be safe to say he only marries Marina for the connections Murry has. After meeting Marina and her father, the two rush into love. They get engaged quickly, and are married even quicker. Instead of focusing on his wedding day, the only thing he seems to care about is the press. While Marina wants to ignore the interview with New York Times Vows, Ludo uses it to talk about the upcoming launch of his magazine. It is also surprising that no one from Ludo’s family attends the wedding, not even his parents.
+
+Once married, the couple skips their honeymoon as it is too close to the launch of The Monitor. Ludo spends days and nights working on the launch and practically ignores Marina. Does he even care about her? When the attacks of September 11 put a halt to the launch Ludo is incredibly annoyed. He could put it off, but by that point the articles will be obsolete and no one will find them interesting anymore. All people will care to hear about for the months that follow are the events of September 11.  
+
+Does this give enough reason for Ludovic to be the emperor the title refers to? The only thing that gets his attention is the fame he will receive once his magazine launches. It is clear the only reason Ludo does what he does is to make a name for himself in New York and nothing else. He uses the people he meets simply for connections and it is clear his wedding meant nothing to him. 
