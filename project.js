@@ -38,7 +38,7 @@ let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
 ["introduction", "marina",
    "danielle",
-  "julius", "murry", "bootie", "ludo", "manhattan", "conclusion"].forEach(function(tab){
+  "julius", "Murry", "bootie", "ludo", "manhattan", "conclusion"].forEach(function(tab){
 $.ajax({
   url: "https://cfl321.github.io/javascripting-english-major-project/" + tab + ".md",
   success:function(markdown){
