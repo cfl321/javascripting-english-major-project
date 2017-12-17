@@ -1,1 +1,9 @@
-julius 
+Why is Julius Clarke a child of the emperor?
+
+Julius lived in Danville, Michigan until moving away to attend Brown University. Upon graduating college, he moved to New York to find himself and a job he was passionate about. Julius makes attempts to find his niche but always sells himself short using the excuse that he is a half-white and half-Vietnamese gay man. Julius hops around from different low-paying temporary jobs hoping one will finally click. However, it leaves him broke and he must rely on living paycheck to paycheck. The only place Julius can afford to live is a small run-down apartment on Pitt Street in the Lower East Side. The apartment is dirty, isolated, and filled with cockroaches.
+
+Aside from barely being able to support himself, Julius is very flirtatious and quick to fall into love. At one of his new temporary jobs, Julius begins a relationship with a younger man, David Cohen. The couple become serious rather quickly and plan to move in together. It is obvious they can’t live in Julius’ apartment so it is decided that Julius will move into David’s apartment in Chelsea. Although Julius likes David it is unclear how he truly feels as he keeps David away from his friends and doesn’t introduce them until Marina’s wedding.
+
+While in the relationship with David, Julius cheats on him with another man. Julius sees no problem with this and blames it on his personality. During a night out at a local bar with David, Julius gets into a fight which leads to another physical fight with David. They are both seriously injured and it ends with the police keeping the two apart. David and Julius break up.
+
+Although we don’t know much about the development of Julius’ character, but it is obvious that he has issues with his motives and temper. He sees nothing wrong with cheating and won’t admit to his mistakes. It causes us to question how much Julius has grown over his lifetime as he still acts like a young college student without a care in the world. 
