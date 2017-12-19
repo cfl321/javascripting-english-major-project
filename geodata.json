@@ -10,7 +10,7 @@
     "properties": {
     "A":"Julius' Apartment",
     "D":"#d33682",
-    "E":"https://imgur.com/NDPez7J"
+    "E":"https://i.imgur.com/NDPez7J.png"
     }
   },
   {
@@ -22,7 +22,7 @@
     "properties": {
     "A":"Thwaite Family Apartment ",
     "D":"#859900",
-    "E":"https://imgur.com/AyR0EQp"
+    "E":"https://i.imgur.com/AyR0EQp.jpg"
     }
   },
   {
@@ -34,7 +34,7 @@
     "properties": {
     "A":"Danielle's Apartment ",
     "D":"#cb4b16",
-    "E":"https://imgur.com/rx1EWuC"
+    "E":"https://i.imgur.com/rx1EWuC.jpg"
     }
   },
   {
@@ -46,7 +46,7 @@
     "properties": {
     "A":"Danielle's Office",
     "D":"#fdf6e3",
-    "E":"https://imgur.com/QhGQjmP"
+    "E":"https://i.imgur.com/QhGQjmP.png"
     }
   },
   {
@@ -58,7 +58,7 @@
     "properties": {
     "A":"David's Apartment ",
     "D":"#268bd2",
-    "E":"https://imgur.com/l65rVko"
+    "E":"https://i.imgur.com/l65rVko.png"
     }
   },
   {
@@ -70,7 +70,7 @@
     "properties": {
     "A":"Ludow's Apartment ",
     "D":"#657b83",
-    "E":"https://imgur.com/5aM8fPQ"
+    "E":"https://i.imgur.com/5aM8fPQ.png"
     }
   },
   {
@@ -80,9 +80,9 @@
        "coordinates":  [ -73.320386,42.287587 ]
     },
     "properties": {
-    "A":"Thwaite Family Country House ",
+    "A":"Stockbridge, Massachusetts ",
     "D":"#b58900",
-    "E":"https://imgur.com/FG3gyaB"
+    "E":"https://i.imgur.com/FG3gyaB.jpg"
     }
   },
   {
@@ -94,7 +94,7 @@
     "properties": {
     "A":"World Trade Center",
     "D":"#00FF00",
-    "E":"https://imgur.com/VaW7uE5"
+    "E":"https://i.imgur.com/VaW7uE5.jpg"
     }
   },
   {
@@ -106,7 +106,7 @@
     "properties": {
     "A":"Bootie's Apartment",
     "D":"#135453",
-    "E":"https://imgur.com/daKONfm"
+    "E":"https://i.imgur.com/daKONfm.png"
     }
   },
   {
@@ -116,9 +116,9 @@
        "coordinates":  [ -80.202596,25.770024 ]
     },
     "properties": {
-    "A":"Miami ",
+    "A":"Miami, Florida ",
     "D":"#33FFFC",
-    "E":"https://imgur.com/hCwsXUQ"
+    "E":"https://i.imgur.com/hCwsXUQ.jpg"
     }
   }
 ]
