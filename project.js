@@ -23,7 +23,7 @@ $.getJSON("https://cfl321.github.io/javascripting-english-major-project/geodata.
   featuresLayer = L.featureGroup(featuresList.map(function(project){
     let popupContent;
       popupContent = "<h4>" + project.name + "</h4>";
-      popupContent = popupContent + "This is a picture of " + project.name + " <a href='"+ project.picture + "'Click Here></a>";
+      popupContent = popupContent + "This is a picture of " + project.name + " <a href='"+ project.picture + "'>Click Here</a>";
       return L.circleMarker(
         [project.latitude, project.longitude] ,
         {
