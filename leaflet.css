@@ -1,7 +1,8 @@
 .map {
   height: 400px;
 }
-.img{
-  height:50
-  width:100
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|PT+Serif');
+
+body{
+  font-family: Indie Flower, PT serif
 }
